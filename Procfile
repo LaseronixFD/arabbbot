@@ -1,1 +1,1 @@
-worker: python ArabBot.py
+worker: python3 ArabBot.py
