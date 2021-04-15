@@ -1,1 +1,1 @@
-worker: python ArabBot.ru
+worker: python ArabBot.py
