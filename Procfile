@@ -1,1 +1,1 @@
-worker: python ArabBot.py $PORT
+worker: python ArabBot.py
